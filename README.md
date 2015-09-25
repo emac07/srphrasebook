@@ -28,7 +28,7 @@ You can contribute in one of two ways.
 
 # Guidelines for translation
 
-1. Please use all Chinese, even if you might normally use English with your Chinese friends here at Simon's Rock. If it is not too much trouble, can you try to make Chinese versions of the names too?
+1. Please use only the target language, even if you might normally use English when speaking with friends here at Simon's Rock.
 
 2. Please try to be colloquial, using the kind of language you would normally use to talk to a professor or student at Simon's Rock. Not too formal.
 
