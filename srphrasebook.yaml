@@ -1,700 +1,600 @@
 0001:
-      en: What classes are you taking this semester?
-      zh: 这一学期你有什么课？
-      sq: Cfarë lëndë po merr këtë semester?
-      es: ¿Que clases estas tomando este semestre?
-      fr: Quel cours suis-tu ce semestre?
-
+      en: "What classes are you taking this semester?"
+      zh: "这一学期你有什么课？"
+      sq: "Cfarë lëndë po merr këtë semester?"
+      es: "¿Que clases estas tomando este semestre?"
+      fr: "Quel cours suis-tu ce semestre?"
 0002:
-      en: Do you have many finals this winter?
-      zh: 这个冬天你有几门期末考试？
-      sq: A ke shume provime përfundimtare këtë semester?
-      es: ¿Tienes muchas pruebas al final del semestre?
-      fr: As-tu beaucoup d’examens cet hiver?
-
+      en: "Do you have many finals this winter?"
+      zh: "这个冬天你有几门期末考试？"
+      sq: "A ke shume provime përfundimtare këtë semester?"
+      es: "¿Tienes muchas pruebas al final del semestre?"
+      fr: "As-tu beaucoup d’examens cet hiver?"
 0003:
-      en: Are you taking any classes this summer?
-      zh: 这个夏天你要上课吗？
-      sq: A do kryesh ndonjë lëndë gjatë kësaj vere?
-      es: ¿Estas tomando algunas clases este verano?
-      fr: Est-ce que tu prends des cours cet été?
-
+      en: "Are you taking any classes this summer?"
+      zh: "这个夏天你要上课吗？"
+      sq: "A do kryesh ndonjë lëndë gjatë kësaj vere?"
+      es: "¿Estas tomando algunas clases este verano?"
+      fr: "Est-ce que tu prends des cours cet été?"
 0004:
-      en: Would you rather write a paper or give a presentation?
-      zh: 你愿意写一篇论文还是做一个报告？
-      sq: A më përpara do të shkruaje një ese apo të bëje një prezantim?
-      es: ¿Prefieres escribir un ensayo o dar una presentación?
-      fr: Préférerais-tu écrire un devoir ou faire un exposé?
-
+      en: "Would you rather write a paper or give a presentation?"
+      zh: "你愿意写一篇论文还是做一个报告？"
+      sq: "A më përpara do të shkruaje një ese apo të bëje një prezantim?"
+      es: "¿Prefieres escribir un ensayo o dar una presentación?"
+      fr: "Préférerais-tu écrire un devoir ou faire un exposé?"
 0005:
-      en: I have to write three final papers before Tuesday.
-      zh: 我必须在周二之前写三篇期末论文。
-      sq: Më duhet të shkruaj tre eseja përfundimtare para të martës.
-      es: Tengo que escribir tres ensayos finales antes del Martes
-      fr: Je dois écrire trois devoirs notés avant mardi.
-
+      en: "I have to write three final papers before Tuesday."
+      zh: "我必须在周二之前写三篇期末论文。"
+      sq: "Më duhet të shkruaj tre eseja përfundimtare para të martës."
+      es: "Tengo que escribir tres ensayos finales antes del Martes"
+      fr: "Je dois écrire trois devoirs notés avant mardi."
 0006:
-      en: The professor asked me to do a presentation on the same topic as my final paper.
-      zh: 教授让我做一个和我的期末论文主题相同的报告。
-      sq: Profesori më kërkoi të bëjë një prezantim me temë të njëjtë sikur të esesë time përfundimtare.
-      es: El profesor me pidió que hiciera una presentación en el mismo tema que mi ensayo final.
-      fr: Le professeur m’a demandé(e) de faire un exposé sur le même sujet que mon devoir final.
-
+      en: "The professor asked me to do a presentation on the same topic as my final paper."
+      zh: "教授让我做一个和我的期末论文主题相同的报告。"
+      sq: "Profesori më kërkoi të bëjë një prezantim me temë të njëjtë sikur të esesë time përfundimtare."
+      es: "El profesor me pidió que hiciera una presentación en el mismo tema que mi ensayo final."
+      fr: "Le professeur m’a demandé(e) de faire un exposé sur le même sujet que mon devoir final."
 0007:
-      en: How many students are in the class?
-      zh: 班里有几个学生？
-      sq: Sa studentë janë në klasë?
-      es: ¿Cuantos estudiantes hay en la clase?
-      fr: Combien d’étudiants sont dans la classe?
-
+      en: "How many students are in the class?"
+      zh: "班里有几个学生？"
+      sq: "Sa studentë janë në klasë?"
+      es: "¿Cuantos estudiantes hay en la clase?"
+      fr: "Combien d’étudiants sont dans la classe?"
 0008:
-      en: How many students are giving presentations today?
-      zh: 今天有几个学生做报告？
-      sq: Sa studenta do të prezantojnë sot?
-      es: ¿Cuantos estudiantes van a dar presentaciones hoy?
-      fr: Combien d’étudiants présentent leur exposé aujourd’hui?
-
+      en: "How many students are giving presentations today?"
+      zh: "今天有几个学生做报告？"
+      sq: "Sa studenta do të prezantojnë sot?"
+      es: "¿Cuantos estudiantes van a dar presentaciones hoy?"
+      fr: "Combien d’étudiants présentent leur exposé aujourd’hui?"
 0009:
-      en: I'm keeping up well with the reading.
-      zh: 我一直跟得上阅读进度。
-      sq: Jam duke përcjell shumë mirë leximet.
-      es: ¿Estoy haciendo buen progreso en la lectura?
-      fr: J’ai un bon rythme dans la lecture.
-
+      en: "I'm keeping up well with the reading."
+      zh: "我一直跟得上阅读进度。"
+      sq: "Jam duke përcjell shumë mirë leximet."
+      es: "¿Estoy haciendo buen progreso en la lectura?"
+      fr: "J’ai un bon rythme dans la lecture."
 0010:
-      en: My history professor isn't keeping up with the syllabus.
-      zh: 我的历史教授没有跟着课程大纲的进度。
-      sq: Profesori im i historisë nuk po ja mban me syllabusin.
-      es: Mi profesor de historia no esta coordinado con el sílabo.
-      fr: Mon professeur d’Histoire ne suit pas le programme.
-
+      en: "My history professor isn't keeping up with the syllabus."
+      zh: "我的历史教授没有跟着课程大纲的进度。"
+      sq: "Profesori im i historisë nuk po ja mban me syllabusin."
+      es: "Mi profesor de historia no esta coordinado con el sílabo."
+      fr: "Mon professeur d’Histoire ne suit pas le programme."
 0011:
-      en: I like the way the professor creates a discussion.
-      zh: 我喜欢教授开展讨论的方式。
-      sq: Më pëlqen mënyra se si profesori e fillon një debat.
-      es: Me gusta la manera en la que el profesor crea la discusión.
-      fr: J’aime la façon que mon professeur a de lancer une discussion.
-
+      en: "I like the way the professor creates a discussion."
+      zh: "我喜欢教授开展讨论的方式。"
+      sq: "Më pëlqen mënyra se si profesori e fillon një debat."
+      es: "Me gusta la manera en la que el profesor crea la discusión."
+      fr: "J’aime la façon que mon professeur a de lancer une discussion."
 0012:
-      en: My friends don't have many seminar classes.
-      zh: 我的朋友们没有多少研讨课。
-      sq: Shokët e mi nuk kanë shumë lëndë të letërsisë.
-      es: Mis amigos no tienen muchas clases de seminario.
-      fr: Mes ami(e)s n’ont pas beaucoup de travaux dirigés. 
-
+      en: "My friends don't have many seminar classes."
+      zh: "我的朋友们没有多少研讨课。"
+      sq: "Shokët e mi nuk kanë shumë lëndë të letërsisë."
+      es: "Mis amigos no tienen muchas clases de seminario."
+      fr: "Mes ami(e)s n’ont pas beaucoup de travaux dirigés."
 0013:
-      en: I have mostly lecture classes this year.
-      zh: 我今年大部分的课都是讲座式的。
-      sq: Kryesisht kam lëndë ligjeruese këtë vit.
-      es: La mayoría de mis clases este año son magistrales
-      fr: J’ai en grande partie des cours magistraux cette année.
-
+      en: "I have mostly lecture classes this year."
+      zh: "我今年大部分的课都是讲座式的。"
+      sq: "Kryesisht kam lëndë ligjeruese këtë vit."
+      es: "La mayoría de mis clases este año son magistrales"
+      fr: "J’ai en grande partie des cours magistraux cette année."
 0014:
-      en: How many hours of class do you have on Fridays?
-      zh: 你每周五有几个小时的课？
-      sq: Sa orë mësim ke të premteve?
-      es: ¿Cuantas horas de clases tienes los viernes?
-      fr: Combien d’heures de cours as-tu les vendredis?
-
+      en: "How many hours of class do you have on Fridays?"
+      zh: "你每周五有几个小时的课？"
+      sq: "Sa orë mësim ke të premteve?"
+      es: "¿Cuantas horas de clases tienes los viernes?"
+      fr: "Combien d’heures de cours as-tu les vendredis?"
 0015:
-      en: Lecture classes are common in the hard sciences, but the professors don't mind if you ask questions.
-      zh: 讲座课在理工科比较普遍，但是教授并不介意你问问题。
-      sq: Lëndët ligjëruese janë të shpeshta në shkencat e vështira, por profesorëve nuk iu pengon të pyesësh.
-      es: Clases magistrales son comunes en las ciencias, pero a los profesores no les molesta que los estudiantes hagan preguntas.
-      fr: Les cours magistraux sont communs dans les sciences pures, mais cela ne dérange pas les professeurs si tu poses des questions.
-
+      en: "Lecture classes are common in the hard sciences, but the professors don't mind if you ask questions."
+      zh: "讲座课在理工科比较普遍，但是教授并不介意你问问题。"
+      sq: "Lëndët ligjëruese janë të shpeshta në shkencat e vështira, por profesorëve nuk iu pengon të pyesësh."
+      es: "Clases magistrales son comunes en las ciencias, pero a los profesores no les molesta que los estudiantes hagan preguntas."
+      fr: "Les cours magistraux sont communs dans les sciences pures, mais cela ne dérange pas les professeurs si tu poses des questions."
 0016:
-      en: My major areas of study are mathematics and music.
-      zh: 我的专业是数学和音乐。
-      sq: Fusha kryesore të studimeve i kam matematikën dhe muzikën.
-      es: Mis áreas principales de studio son las matemáticas y la música.
-      fr: Mes matières de spécialité (or: mes matières principales) sont les mathématiques et la musique. 
-
+      en: "My major areas of study are mathematics and music."
+      zh: "我的专业是数学和音乐。"
+      sq: "Fusha kryesore të studimeve i kam matematikën dhe muzikën."
+      es: "Mis áreas principales de studio son las matemáticas y la música."
+      fr: "Mes matières de spécialité (or: mes matières principales) sont les mathématiques et la musique."
 0017:
-      en: My boyfriend is studying literature and politics.
-      zh: 我的男朋友学文学和政治。
-      sq: I dashuri im është duke studiuar letërsi dhe politikë.
-      es: Mi novio esta estudiando literatura y política.
-      fr: Mon petit copain étudie la littérature et la politique.
-
+      en: "My boyfriend is studying literature and politics."
+      zh: "我的男朋友学文学和政治。"
+      sq: "I dashuri im është duke studiuar letërsi dhe politikë."
+      es: "Mi novio esta estudiando literatura y política."
+      fr: "Mon petit copain étudie la littérature et la politique."
 0018:
-      en: Do your classmates also find the material difficult?
-      zh: 你的同学也觉得材料很难吗？
-      sq: A iu duken materialet e vështira kolegëve të klasës tënde?
-      es: ¿Tus compañeros también piensan que el material is difícil?
-      fr: Est-ce que tes camarades trouvent aussi le sujet difficile?
-
+      en: "Do your classmates also find the material difficult?"
+      zh: "你的同学也觉得材料很难吗？"
+      sq: "A iu duken materialet e vështira kolegëve të klasës tënde?"
+      es: "¿Tus compañeros también piensan que el material is difícil?"
+      fr: "Est-ce que tes camarades trouvent aussi le sujet difficile?"
 0019:
-      en: I can't talk to your boyfriend about politics.
-      zh: 我不能和你的男朋友聊政治。
-      sq: Unë s'mund të flasë me të dashurin tëndë për politikë.
-      es: No puedo hablar sobre la política con tu novio.
-      fr: Je ne peux pas parler de politique avec ton petit copain.
-
+      en: "I can't talk to your boyfriend about politics."
+      zh: "我不能和你的男朋友聊政治。"
+      sq: "Unë s'mund të flasë me të dashurin tëndë për politikë."
+      es: "No puedo hablar sobre la política con tu novio."
+      fr: "Je ne peux pas parler de politique avec ton petit copain."
 0020:
-      en: Are you thinking about applying to graduate schools?
-      zh: 你想读研究生吗？
-      sq: A po mendon të konkurosh për Master?
-      es: ¿Piensas en aplicar a escuela de posgrado?
-      fr: Est-ce que tu penses faire des demandes de master?
-
+      en: "Are you thinking about applying to graduate schools?"
+      zh: "你想读研究生吗？"
+      sq: "A po mendon të konkurosh për Master?"
+      es: "¿Piensas en aplicar a escuela de posgrado?"
+      fr: "Est-ce que tu penses faire des demandes de master?"
 0021:
-      en: I haven't sent in any applications yet.
-      zh: 我还没有发出申请表呢。
-      sq: Nuk e kam dorëzuar asnjë aplikacion deri me tani. 
-      es: Todavía no e mandado ninguna aplicación.
-      fr: Je n’ai pas encore envoyé de demandes.
-
+      en: "I haven't sent in any applications yet."
+      zh: "我还没有发出申请表呢。"
+      sq: "Nuk e kam dorëzuar asnjë aplikacion deri me tani."
+      es: "Todavía no e mandado ninguna aplicación."
+      fr: "Je n’ai pas encore envoyé de demandes."
 0022:
-      en: Your physics professor mentioned that you had missed a class.
-      zh: 你的物理教授提到你错过了一节课。
-      sq: Profesori yt i fizikës e permendi që ke munguar një orë.
-      es: Tu profesor de física menciono que faltaste a una clase.
-      fr: Ton professeur de physique m’a dit que tu as raté un cours.
-
+      en: "Your physics professor mentioned that you had missed a class."
+      zh: "你的物理教授提到你错过了一节课。"
+      sq: "Profesori yt i fizikës e permendi që ke munguar një orë."
+      es: "Tu profesor de física menciono que faltaste a una clase."
+      fr: "Ton professeur de physique m’a dit que tu as raté un cours."
 0023:
-      en: We haven't submitted our final papers yet.
-      zh: 我们还没交期末论文呢。
-      sq: Ende nuk i kemi dorëzuar esejat perfundimtare.
-      es: Todavía no hemos entregado nuestros ensayos finales.
-      fr: Nous n’avons pas encore envoyé nos devoirs finaux.
-
+      en: "We haven't submitted our final papers yet."
+      zh: "我们还没交期末论文呢。"
+      sq: "Ende nuk i kemi dorëzuar esejat perfundimtare."
+      es: "Todavía no hemos entregado nuestros ensayos finales."
+      fr: "Nous n’avons pas encore envoyé nos devoirs finaux."
 0024:
-      en: She needs to revise her final paper by Monday.
-      zh: 她需要在周一之前修改她的期末论文。
-      sq: Ajo duhet ta rishikoj esen e saj përfundimtare para të hënës.
-      es: Ella necesita revisar su ensayo final para el Lunes.
-      fr: Elle doit réviser son examen final pour lundi.
-
+      en: "She needs to revise her final paper by Monday."
+      zh: "她需要在周一之前修改她的期末论文。"
+      sq: "Ajo duhet ta rishikoj esen e saj përfundimtare para të hënës."
+      es: "Ella necesita revisar su ensayo final para el Lunes."
+      fr: "Elle doit réviser son examen final pour lundi."
 0025:
-      en: Your midterm comments were mostly positive.
-      zh: 你的期中评语大部分都是好的。
-      sq: Komentet tua për gjysmën e semestrit ishin kryesisht pozitive. 
-      es: Tus comentario s de medio semestre fueron por la mayoría positivos.
-      fr: Tes commentaires de mi-semestre sont pour la plupart positifs.
-
+      en: "Your midterm comments were mostly positive."
+      zh: "你的期中评语大部分都是好的。"
+      sq: "Komentet tua për gjysmën e semestrit ishin kryesisht pozitive."
+      es: "Tus comentario s de medio semestre fueron por la mayoría positivos."
+      fr: "Tes commentaires de mi-semestre sont pour la plupart positifs."
 0026:
-      en: How many pages is your thesis?
-      zh: 你的毕业论文有多少页？
-      sq: Sa faqe është tema jote e diplomës?
-      es: ¿Cuantas paginas tiene tu tesis?
-      fr: Combien de pages fait ta thèse?
-
+      en: "How many pages is your thesis?"
+      zh: "你的毕业论文有多少页？"
+      sq: "Sa faqe është tema jote e diplomës?"
+      es: "¿Cuantas paginas tiene tu tesis?"
+      fr: "Combien de pages fait ta thèse?"
 0027:
-      en: How many times a week does his history class meet?
-      zh: 他的历史课一个星期上几次？
-      sq: Sa herë në javë mbahet lënda e tij e historisë?
-      es: ¿Cuantas veces ala semana tienes Historia?
-      fr: Combien de fois par semaine a-t-il cours d’Histoire?
-
+      en: "How many times a week does his history class meet?"
+      zh: "他的历史课一个星期上几次？"
+      sq: "Sa herë në javë mbahet lënda e tij e historisë?"
+      es: "¿Cuantas veces ala semana tienes Historia?"
+      fr: "Combien de fois par semaine a-t-il cours d’Histoire?"
 0028:
-      en: I will be working on my thesis during spring break.
-      zh: 我会在春假的时候忙我的毕业论文。
-      sq: Do të punoj në temë të diplomës gjatë pushimit pranverorë.
-      es: Estaré trabajando en mi tesis durante las vacaciones de primavera.
-      fr: Je vais travailler sur ma thèse durant les vacances de printemps.
-
+      en: "I will be working on my thesis during spring break."
+      zh: "我会在春假的时候忙我的毕业论文。"
+      sq: "Do të punoj në temë të diplomës gjatë pushimit pranverorë."
+      es: "Estaré trabajando en mi tesis durante las vacaciones de primavera."
+      fr: "Je vais travailler sur ma thèse durant les vacances de printemps."
 0029:
-      en: She only has class on Tuesdays and Thursdays this semester.
-      zh: 她这一学期只在周二和周四有课。
-      sq: Ajo ka mësim vetëm të marteve dhe të enjtëve këtë semester.
-      es: Ella solo tiene clases los martes y los jueves este semestre.
-      fr: Elle a seulement cours les mardis et jeudis ce semestre.
-
+      en: "She only has class on Tuesdays and Thursdays this semester."
+      zh: "她这一学期只在周二和周四有课。"
+      sq: "Ajo ka mësim vetëm të marteve dhe të enjtëve këtë semester."
+      es: "Ella solo tiene clases los martes y los jueves este semestre."
+      fr: "Elle a seulement cours les mardis et jeudis ce semestre."
 0030:
-      en: This professor never assigns papers.
-      zh: 这位教授从来不指定论文。
-      sq: Ky profesor kurrë nuk kërkon të bëjmë eseja.
-      es: Este profesor nunca da ensayos.
-      fr: Ce professeur ne donne jamais de devoirs écrits.
-
+      en: "This professor never assigns papers."
+      zh: "这位教授从来不指定论文。"
+      sq: "Ky profesor kurrë nuk kërkon të bëjmë eseja."
+      es: "Este profesor nunca da ensayos."
+      fr: "Ce professeur ne donne jamais de devoirs écrits."
 0031:
-      en: Start keeping a bibliography early in the year, and it will be much easier for you at the end of the year.
-      zh: 年初就开始记录参考文献，这样年底你就容易多了。
-      sq: Fillo të mbashë një bibliografi në fillim të vitit, dhe do ta kesh shumë më të lehtë në fund të vitit.
-      es: Empieza a mantener una bibliografía al principio del año porque así se te hará fácil al final del año.
-      fr: Commence déjà à constituer (or: garder) une bibliographie tôt dans l’année et ce sera beaucoup plus facile pour toi à la fin de l’année.
-
+      en: "Start keeping a bibliography early in the year, and it will be much easier for you at the end of the year."
+      zh: "年初就开始记录参考文献，这样年底你就容易多了。"
+      sq: "Fillo të mbashë një bibliografi në fillim të vitit, dhe do ta kesh shumë më të lehtë në fund të vitit."
+      es: "Empieza a mantener una bibliografía al principio del año porque así se te hará fácil al final del año."
+      fr: "Commence déjà à constituer (or: garder) une bibliographie tôt dans l’année et ce sera beaucoup plus facile pour toi à la fin de l’année."
 0032:
-      en: I'm happy with how your thesis is coming along.
-      zh: 我对你毕业论文的进度很满意。
-      sq: Jam i lumtur me ecurinë e temës tënde të diplomës.
-      es: Estoy feliz con el progreso de tu tesis
-      fr: Je suis content(e) du progrès de ta thèse.
-
+      en: "I'm happy with how your thesis is coming along."
+      zh: "我对你毕业论文的进度很满意。"
+      sq: "Jam i lumtur me ecurinë e temës tënde të diplomës."
+      es: "Estoy feliz con el progreso de tu tesis"
+      fr: "Je suis content(e) du progrès de ta thèse."
 0033:
-      en: They were happy with their exam grades.
-      zh: 他们对自己的考试成绩很满意。
-      sq: Ata ishin të lumtur me notat e testit.
-      es: Ellos están feliz con sus calificaciones en el examen.
-      fr: Ils/Elles étaient content(es) de leurs résultats d’examens.
-
+      en: "They were happy with their exam grades."
+      zh: "他们对自己的考试成绩很满意。"
+      sq: "Ata ishin të lumtur me notat e testit."
+      es: "Ellos están feliz con sus calificaciones en el examen."
+      fr: "Ils/Elles étaient content(es) de leurs résultats d’examens."
 0034:
-      en: Arjun hasn't started his thesis yet , but he thinks he'll be able to write twenty pages over break.
-      zh: 阿尔俊（Arjun）还没开始写他的毕业论文呢，但是他想他可以在放假的时候写二十页。
-      sq: Arjuni nuk e ka filluar temën e diplomës ende, por ai mendon se mund të shkruaj njëzet faqe gjatë pushimit.
-      es: Arjun no ha empezado su tesis, pero el cree que puede escribir 20 paginas durante las vacaciones.
-      fr: Arjun n’a pas encore commencé sa thèse, mais il pense qu’il sera capable d’écrire vingt pages pendant les vacances.
-
+      en: "Arjun hasn't started his thesis yet , but he thinks he'll be able to write twenty pages over break."
+      zh: "阿尔俊（Arjun）还没开始写他的毕业论文呢，但是他想他可以在放假的时候写二十页。"
+      sq: "Arjuni nuk e ka filluar temën e diplomës ende, por ai mendon se mund të shkruaj njëzet faqe gjatë pushimit."
+      es: "Arjun no ha empezado su tesis, pero el cree que puede escribir 20 paginas durante las vacaciones."
+      fr: "Arjun n’a pas encore commencé sa thèse, mais il pense qu’il sera capable d’écrire vingt pages pendant les vacances."
 0035:
-      en: I'll submit my bibliography separately.
-      zh: 我会把我的参考文献分开交。
-      sq: Unë do ta dorëzoj bibliografinë veçmas.
-      es: Voy a entregar mi bibliografía separado
-      fr: Je vais rendre ma bibliographie séparément.
-
+      en: "I'll submit my bibliography separately."
+      zh: "我会把我的参考文献分开交。"
+      sq: "Unë do ta dorëzoj bibliografinë veçmas."
+      es: "Voy a entregar mi bibliografía separado"
+      fr: "Je vais rendre ma bibliographie séparément."
 0036:
-      en: Have you done a 300-level math course?
-      zh: 你学过300级的数学课吗？
-      sq: A ke bërë ndonjë matematikë të nivelit 300?
-      es: ¿Has tomado una clase de matemáticas al nivel 300?
-      fr: As-tu fait un cours de maths de niveau 300?
-
+      en: "Have you done a 300-level math course?"
+      zh: "你学过300级的数学课吗？"
+      sq: "A ke bërë ndonjë matematikë të nivelit 300?"
+      es: "¿Has tomado una clase de matemáticas al nivel 300?"
+      fr: "As-tu fait un cours de maths de niveau 300?"
 0037:
-      en: You have to take a 200-level art history class during your Junior year.
-      zh: 你必须在大三的时候选一门200级的艺术史课。
-      sq: Duhet të marrësh një lëndë të nivelit 200 në histori të arteve gjatë vitit të tretë të studimeve.
-      es: Tienes que tomar una clase de historia de arte al nivel 200 durante tu tercer año.
-      fr: Tu dois prendre un cours d’histoire de l’art de niveau 200 pendant ta troisième année.
-
+      en: "You have to take a 200-level art history class during your Junior year."
+      zh: "你必须在大三的时候选一门200级的艺术史课。"
+      sq: "Duhet të marrësh një lëndë të nivelit 200 në histori të arteve gjatë vitit të tretë të studimeve."
+      es: "Tienes que tomar una clase de historia de arte al nivel 200 durante tu tercer año."
+      fr: "Tu dois prendre un cours d’histoire de l’art de niveau 200 pendant ta troisième année."
 0038:
-      en: I haven't decided what I'm teaching next semester.
-      zh: 我还没决定下一学期教什么。
-      sq: Nuk kam vendosur se çfarë lëndësh do të jap semestrin e ardhshëm.
-      es: No he decidido lo que voy ha enseñar el próximo semestre.
-      fr: Je n’ai pas décidé quel cours je vais enseigner au prochain semestre.
-
+      en: "I haven't decided what I'm teaching next semester."
+      zh: "我还没决定下一学期教什么。"
+      sq: "Nuk kam vendosur se çfarë lëndësh do të jap semestrin e ardhshëm."
+      es: "No he decidido lo que voy ha enseñar el próximo semestre."
+      fr: "Je n’ai pas décidé quel cours je vais enseigner au prochain semestre."
 0039:
-      en: Are you interested in a research opportunity?
-      zh: 你对一个调研机会感兴趣么？
-      sq: A jeni të interesuar për një hulumtim studimor?
-      es: ¿Estas interesado en una oportunidad de estudio?
-      fr: Es-tu intéressé(e) par une opportunité en recherche?
-
+      en: "Are you interested in a research opportunity?"
+      zh: "你对一个调研机会感兴趣么？"
+      sq: "A jeni të interesuar për një hulumtim studimor?"
+      es: "¿Estas interesado en una oportunidad de estudio?"
+      fr: "Es-tu intéressé(e) par une opportunité en recherche?"
 0040:
-      en: Would you like to study abroad?
-      zh: 你愿意出国交流吗？
-      sq: A do të dëshironit të studioni jashtë vendit?
-      es: ¿Quisieras estudiar en el extranjero?
-      fr: Voudrais-tu étudier à l’étranger?
-
+      en: "Would you like to study abroad?"
+      zh: "你愿意出国交流吗？"
+      sq: "A do të dëshironit të studioni jashtë vendit?"
+      es: "¿Quisieras estudiar en el extranjero?"
+      fr: "Voudrais-tu étudier à l’étranger?"
 0041:
-      en: I need to write ten pages by tomorrow morning. I don't know how I'm going to be able to do.
-      zh: 明早之前我需要写十页。我不知道我将怎么做到。
-      sq: Më duhet të shkruaj dhjetë faqe deri nesër në mengjes. Nuk e di si do t'ia bëjë.
-      es: Necesito escribir diez paginas para mañana. No sé cómo le voy a hacer
-      fr: Je dois écrire dix pages avant demain matin. Je ne sais pas comment je vais faire.
-
+      en: "I need to write ten pages by tomorrow morning. I don't know how I'm going to be able to do."
+      zh: "明早之前我需要写十页。我不知道我将怎么做到。"
+      sq: "Më duhet të shkruaj dhjetë faqe deri nesër në mengjes. Nuk e di si do t'ia bëjë."
+      es: "Necesito escribir diez paginas para mañana. No sé cómo le voy a hacer"
+      fr: "Je dois écrire dix pages avant demain matin. Je ne sais pas comment je vais faire."
 0042:
-      en: She did an internship last summer, but she doesn't have any plans for this summer.
-      zh: 上个夏天她做了一份实习，但是这个夏天她没有什么计划。
-      sq: Ajo ka bërë një praktikë gjatë verës së kaluar, por nuk ka ndonjë plan për këtë verë.
-      es: Ella hizo una práctica (alt. un internship) el verano pasado, pero no tiene planes para este verano
-      fr: Elle a fait un stage l’été dernier, mais elle n’a pas de plans pour cet été.
-
+      en: "She did an internship last summer, but she doesn't have any plans for this summer."
+      zh: "上个夏天她做了一份实习，但是这个夏天她没有什么计划。"
+      sq: "Ajo ka bërë një praktikë gjatë verës së kaluar, por nuk ka ndonjë plan për këtë verë."
+      es: "Ella hizo una práctica (alt. un internship) el verano pasado, pero no tiene planes para este verano"
+      fr: "Elle a fait un stage l’été dernier, mais elle n’a pas de plans pour cet été."
 0043:
-      en: Patrick failed an exam last month, and his parents are very upset.
-      zh: Patrick上个月一个考试挂科了，他的父母对此很郁闷。
-      sq: Patriku ka rënë në një provim muajin e kalur, dhe prindërit e tij janë shumë të zemëruar.
-      es: Patricio reprobó un examen el mes pasado  y sus padres están muy decepcionados.
-      fr: Patrick a raté un examen le mois dernier, et ses parents sont très énervés (or: déçus).
-
+      en: "Patrick failed an exam last month, and his parents are very upset."
+      zh: "Patrick上个月一个考试挂科了，他的父母对此很郁闷。"
+      sq: "Patriku ka rënë në një provim muajin e kalur, dhe prindërit e tij janë shumë të zemëruar."
+      es: "Patricio reprobó un examen el mes pasado  y sus padres están muy decepcionados."
+      fr: "Patrick a raté un examen le mois dernier, et ses parents sont très énervés (or: déçus)."
 0044:
-      en: I didn't do enough research for my economics paper.
-      zh: 我没有为我的经济论文做足够的研究。
-      sq: Nuk kam bërë mjaftë hulumtime për esejen time në ekonomi.
-      es: No hice suficiente investigación para mi ensayo de economía.
-      fr: Je n’ai pas fait assez de recherches pour mon devoir d’économie.
-
+      en: "I didn't do enough research for my economics paper."
+      zh: "我没有为我的经济论文做足够的研究。"
+      sq: "Nuk kam bërë mjaftë hulumtime për esejen time në ekonomi."
+      es: "No hice suficiente investigación para mi ensayo de economía."
+      fr: "Je n’ai pas fait assez de recherches pour mon devoir d’économie."
 0045:
-      en: If you are more careful with your research, it will be easier to write the paper.
-      zh: 如果你对你的研究更仔细，写论文就更容易。
-      sq: Nëse je më i/e kujdesshëm/kujdesshmme me kërkimet tua, do të jetë më e lehtë ta shkruash esejën.
-      es: Si tienes mas cuidado con los estudios, será más fácil escribir el ensayo.
-      fr: Si tu es plus attentionné(e) avec ta recherche, il sera plus simple d’écrire ton devoir.
-
+      en: "If you are more careful with your research, it will be easier to write the paper."
+      zh: "如果你对你的研究更仔细，写论文就更容易。"
+      sq: "Nëse je më i/e kujdesshëm/kujdesshmme me kërkimet tua, do të jetë më e lehtë ta shkruash esejën."
+      es: "Si tienes mas cuidado con los estudios, será más fácil escribir el ensayo."
+      fr: "Si tu es plus attentionné(e) avec ta recherche, il sera plus simple d’écrire ton devoir."
 0046:
-      en: Have you picked out your classes for next semester?
-      zh: 你下一学期的课选好了吗？
-      sq: A i ke zgjedhur lëndët për semestrin e ardhshëm?
-      es: ¿Has escogido tus clases para el próximo semestre?
-      fr: As-tu choisi tes cours pour le prochain semestre?
-
+      en: "Have you picked out your classes for next semester?"
+      zh: "你下一学期的课选好了吗？"
+      sq: "A i ke zgjedhur lëndët për semestrin e ardhshëm?"
+      es: "¿Has escogido tus clases para el próximo semestre?"
+      fr: "As-tu choisi tes cours pour le prochain semestre?"
 0047:
-      en: Yuri is going to San Francisco over winter break.
-      zh: 尤里（Yuri）要在冬假时去旧金山。
-      sq: Juri do të shkoj në San Francisko gjatë pushimit dimëror.
-      es: Yuri estará en San Francisco sobre las vacaciones del invierno.
-      fr: Yuri va à San Francisco pour les vacances d’hiver.
-
+      en: "Yuri is going to San Francisco over winter break."
+      zh: "尤里（Yuri）要在冬假时去旧金山。"
+      sq: "Juri do të shkoj në San Francisko gjatë pushimit dimëror."
+      es: "Yuri estará en San Francisco sobre las vacaciones del invierno."
+      fr: "Yuri va à San Francisco pour les vacances d’hiver."
 0048:
-      en: How did Yoshi first hear about Simon's Rock?
-      zh: 尚史（Yoshi）是怎么第一次听说Simon's Rock的？
-      sq: Si ka dëgjuar Juri për Simon's Rock-un?
-      es: ¿Como aprendió Yoshi sobre Simon’s Rock?
-      fr: Comment Yoshi a-t-elle entendu parler de Simon’s Rock?
-
+      en: "How did Yoshi first hear about Simon's Rock?"
+      zh: "尚史（Yoshi）是怎么第一次听说Simon's Rock的？"
+      sq: "Si ka dëgjuar Juri për Simon's Rock-un?"
+      es: "¿Como aprendió Yoshi sobre Simon’s Rock?"
+      fr: "Comment Yoshi a-t-elle entendu parler de Simon’s Rock?"
 0049:
-      en: Martin is studying in Rome all next year.
-      zh: 马丁（Martin）明年一年都在罗马学习。
-      sq: Martini do të studioj në Romë tërë vitin e ardhshëm.
-      es: Martin esta estudiando en Roma todo el próximo año.
-      fr: Martin étudie à Rome toute l’année prochaine
-
+      en: "Martin is studying in Rome all next year."
+      zh: "马丁（Martin）明年一年都在罗马学习。"
+      sq: "Martini do të studioj në Romë tërë vitin e ardhshëm."
+      es: "Martin esta estudiando en Roma todo el próximo año."
+      fr: "Martin étudie à Rome toute l’année prochaine"
 0050:
-      en: Does Alex usually eat lunch in the dining hall?
-      zh: 亚历克斯（Alex）经常在食堂吃午餐吗？
-      sq: A ha Aleksi drekë në mensë zakonisht?
-      es: ¿Sabes si Alex come lonche normalmente en la cafetería?
-      fr: Est-ce qu’Alex déjeune souvent à la cantine?
-
+      en: "Does Alex usually eat lunch in the dining hall?"
+      zh: "亚历克斯（Alex）经常在食堂吃午餐吗？"
+      sq: "A ha Aleksi drekë në mensë zakonisht?"
+      es: "¿Sabes si Alex come lonche normalmente en la cafetería?"
+      fr: "Est-ce qu’Alex déjeune souvent à la cantine?"
 0051:
-      en: What dorm is your friend living in?
-      zh: 你的朋友住在哪个宿舍？
-      sq: Cilin konvikt jeton shoku/shoqja yt/yte?
-      es: ¿En que dormitorio vive tu amigo?
-      fr: Dans quel dortoir habite ton ami(e)?
-
+      en: "What dorm is your friend living in?"
+      zh: "你的朋友住在哪个宿舍？"
+      sq: "Cilin konvikt jeton shoku/shoqja yt/yte?"
+      es: "¿En que dormitorio vive tu amigo?"
+      fr: "Dans quel dortoir habite ton ami(e)?"
 0052:
-      en: Which classes are hardest for Andrea?
-      zh: 对安德里亚（Andrea）来说，最难的课是什么？
-      sq: Cilat janë lëndët më të vështira për Andrean?
-      es: ¿Que clases son las más difíciles para Andrea?
-      fr: Quel cours sont les plus durs pour Andrea?
-
+      en: "Which classes are hardest for Andrea?"
+      zh: "对安德里亚（Andrea）来说，最难的课是什么？"
+      sq: "Cilat janë lëndët më të vështira për Andrean?"
+      es: "¿Que clases son las más difíciles para Andrea?"
+      fr: "Quel cours sont les plus durs pour Andrea?"
 0053:
-      en: When could you meet on Thursday?
-      zh: 你周二什么时间可以见面呢？
-      sq: Kur mund të takohemi të enjtën:
-      es: A que hora nos podemos ver el jueves.
-      fr: Quand pourrais-tu venir jeudi?
-
+      en: "When could you meet on Thursday?"
+      zh: "你周二什么时间可以见面呢？"
+      sq: "Kur mund të takohemi të enjtën:"
+      es: "A que hora nos podemos ver el jueves."
+      fr: "Quand pourrais-tu venir jeudi?"
 0054:
-      en: The students are never prepared for class.
-      zh: 学生们从来不做课前准备。
-      sq: Studentët kurrë nuk janë të përgatitur për mësim.
-      es: Los estudiantes nunca están preparados para la clase.
-      fr: Les élèves ne sont jamais préparés pour le cours.
-
+      en: "The students are never prepared for class."
+      zh: "学生们从来不做课前准备。"
+      sq: "Studentët kurrë nuk janë të përgatitur për mësim."
+      es: "Los estudiantes nunca están preparados para la clase."
+      fr: "Les élèves ne sont jamais préparés pour le cours."
 0055:
-      en: Derek hasn't finished his concentration requirements yet.
-      zh: 德里克（Derek）还没完成他的必修要求呢。
-      sq: Dereku nuk i ka përfunduar lëndët e nevojshme për drejtim të tij ende.
-      es: Derek todavía no termina sus requisitos de concentración.
-      fr: Derek n’as pas encore fini ses cours obligatoires pour son cursus.
-
+      en: "Derek hasn't finished his concentration requirements yet."
+      zh: "德里克（Derek）还没完成他的必修要求呢。"
+      sq: "Dereku nuk i ka përfunduar lëndët e nevojshme për drejtim të tij ende."
+      es: "Derek todavía no termina sus requisitos de concentración."
+      fr: "Derek n’as pas encore fini ses cours obligatoires pour son cursus."
 0056:
-      en: Mathematics isn't required for the literature concentration.
-      zh: 数学不是文学专业的必修课。
-      sq: Matematika nuk është e nevojshme për degën e letërsisë.
-      es: Matemáticas no es requerido para la concentración de literatura.
-      fr: Les Mathématiques ne sont pas obligatoires pour un cursus en littérature.
-
+      en: "Mathematics isn't required for the literature concentration."
+      zh: "数学不是文学专业的必修课。"
+      sq: "Matematika nuk është e nevojshme për degën e letërsisë."
+      es: "Matemáticas no es requerido para la concentración de literatura."
+      fr: "Les Mathématiques ne sont pas obligatoires pour un cursus en littérature."
 0057:
-      en: There is no final paper in Alessandro's physics class.
-      zh: Alessandro的物理课没有期末论文。
-      sq: Nuk ka ese përfundimtare për lëndën e fizikës të Alesandros.
-      es: No hay ensayo final en la clase de física de Alessandro.
-      fr: Il n’y a pas de devoir final dans le cours de physiques d’Alessandro.
-
+      en: "There is no final paper in Alessandro's physics class."
+      zh: "Alessandro的物理课没有期末论文。"
+      sq: "Nuk ka ese përfundimtare për lëndën e fizikës të Alesandros."
+      es: "No hay ensayo final en la clase de física de Alessandro."
+      fr: "Il n’y a pas de devoir final dans le cours de physiques d’Alessandro."
 0058:
-      en: Have you taken a 200-level science course?
-      zh: 你学过200级的理科课吗？
-      sq: A ke marrë ndonjë lëndë shkencore të nivelit 200?
-      es: ¿Has tomado una clase de ciencia al nivel 200?
-      fr: As-tu pris un cours de sciences de niveau 200?
-
+      en: "Have you taken a 200-level science course?"
+      zh: "你学过200级的理科课吗？"
+      sq: "A ke marrë ndonjë lëndë shkencore të nivelit 200?"
+      es: "¿Has tomado una clase de ciencia al nivel 200?"
+      fr: "As-tu pris un cours de sciences de niveau 200?"
 0059:
-      en: Derek stayed up all night to finish his final paper.
-      zh: 德里克（Derek）为了写他的期末论文熬了一夜。
-      sq: Dereku ka ndenjtë zgjuar tërë natën për të shkruar esen përfundimtare.
-      es: Derek se quedo despierto toda la noche escribiendo su ensayo.
-      fr: Derek est resté éveillé toute la nuit pour finir son devoir final.
-
+      en: "Derek stayed up all night to finish his final paper."
+      zh: "德里克（Derek）为了写他的期末论文熬了一夜。"
+      sq: "Dereku ka ndenjtë zgjuar tërë natën për të shkruar esen përfundimtare."
+      es: "Derek se quedo despierto toda la noche escribiendo su ensayo."
+      fr: "Derek est resté éveillé toute la nuit pour finir son devoir final."
 0060:
-      en: Which music theory class was harder for you?
-      zh: 对你来说，哪个音乐理论课最难？
-      sq: Cila lëndë e muzikës teorike ka qenë më e vështira për ty?
-      es: ¿Cual clase de teoría de música fue más difícil para ti?
-      fr: Quel cours de théories de la musique était plus difficile pour toi?
-
+      en: "Which music theory class was harder for you?"
+      zh: "对你来说，哪个音乐理论课最难？"
+      sq: "Cila lëndë e muzikës teorike ka qenë më e vështira për ty?"
+      es: "¿Cual clase de teoría de música fue más difícil para ti?"
+      fr: "Quel cours de théories de la musique était plus difficile pour toi?"
 0061:
-      en: I want to study music theory, but I don't know the professor very well.
-      zh: 我想学音乐理论，但是我不太了解那个教授。
-      sq: Dua të studioj muzikë teorike, por nuk e njoh profesorin mirë.
-      es: Quiero estudiar teoría de música, pero no conozco bien al profesor.
-      fr: Je veux étudier les théories de la musique, mais je ne connais pas très bien le professeur.
-
+      en: "I want to study music theory, but I don't know the professor very well."
+      zh: "我想学音乐理论，但是我不太了解那个教授。"
+      sq: "Dua të studioj muzikë teorike, por nuk e njoh profesorin mirë."
+      es: "Quiero estudiar teoría de música, pero no conozco bien al profesor."
+      fr: "Je veux étudier les théories de la musique, mais je ne connais pas très bien le professeur."
 0062:
-      en: Hideki speaks a lot during seminar.
-      zh: 秀喜（Hideki）在研讨课上经常发言。
-      sq: Hideki flet shumë gjatë lëndës së letërsisë.
-      es: Hideki habla mucho durante seminario.
-      fr: Hideki parle beaucoup pendant les travaux dirigés.
-
+      en: "Hideki speaks a lot during seminar."
+      zh: "秀喜（Hideki）在研讨课上经常发言。"
+      sq: "Hideki flet shumë gjatë lëndës së letërsisë."
+      es: "Hideki habla mucho durante seminario."
+      fr: "Hideki parle beaucoup pendant les travaux dirigés."
 0063:
-      en: Nancy usually doesn't speak during seminar.
-      zh: 南希(Nancy)在研讨课上一般不说话。
-      sq: Nensi zakonisht nuk flet gjatë lëndës së letërsisë.
-      es: Nancy normalmente no habla durante seminario.
-      fr: Nancy ne parle pas en général pendant les travaux dirigés.
-
+      en: "Nancy usually doesn't speak during seminar."
+      zh: "南希(Nancy)在研讨课上一般不说话。"
+      sq: "Nensi zakonisht nuk flet gjatë lëndës së letërsisë."
+      es: "Nancy normalmente no habla durante seminario."
+      fr: "Nancy ne parle pas en général pendant les travaux dirigés."
 0064:
-      en: Is Cy writing his final paper on the same topic as his midterm paper?
-      zh: Cy是在写一个和他期中论文题目相同的期末论文吗？
-      sq: A po e shkruan Ci esen e tij përfundimtare në të njëjtën temë si për esen e mesvitit?
-      es: ¿Sabes si Cy esta escribiendo su ensayo final en el mismo sujeto que su ensayo de medio semestre?
-      fr: Cy rédige-t-elle son devoir final sur le même sujet que son devoir de mi-semestre?
-
+      en: "Is Cy writing his final paper on the same topic as his midterm paper?"
+      zh: "Cy是在写一个和他期中论文题目相同的期末论文吗？"
+      sq: "A po e shkruan Ci esen e tij përfundimtare në të njëjtën temë si për esen e mesvitit?"
+      es: "¿Sabes si Cy esta escribiendo su ensayo final en el mismo sujeto que su ensayo de medio semestre?"
+      fr: "Cy rédige-t-elle son devoir final sur le même sujet que son devoir de mi-semestre?"
 0065:
-      en: Erling has already missed two classes this semester.
-      zh: Erling这学期已经错过两节课了。
-      sq: Erlingu ka munguar dy orë këtë semester deri tash.
-      es: Erling ya a faltado a dos clases este semestre.
-      fr: Erling a déjà raté deux cours ce semestre.
-
+      en: "Erling has already missed two classes this semester."
+      zh: "Erling这学期已经错过两节课了。"
+      sq: "Erlingu ka munguar dy orë këtë semester deri tash."
+      es: "Erling ya a faltado a dos clases este semestre."
+      fr: "Erling a déjà raté deux cours ce semestre."
 0066:
-      en: Katie just changed advisors.
-      zh: 凯蒂（Katie）刚换了导师。
-      sq: Kejti sapo e ka ndërruar mentorin.
-      es: Katie acaba de cambiar advisors (consejero)
-      fr: Katie vient juste de changer de conseillers.
-
+      en: "Katie just changed advisors."
+      zh: "凯蒂（Katie）刚换了导师。"
+      sq: "Kejti sapo e ka ndërruar mentorin."
+      es: "Katie acaba de cambiar advisors (consejero)"
+      fr: "Katie vient juste de changer de conseillers."
 0067:
-      en: How many professors are on your thesis committee?
-      zh: 你的毕业论文委员会里有几位教授？
-      sq: Sa profesora i ke në këshillin tënd për temë të diplomës?
-      es: ¿Cuantos profesores tienes en tu to comité de tesis?
-      fr: Combien de professeurs sont dans ton comité de thèse?
-
+      en: "How many professors are on your thesis committee?"
+      zh: "你的毕业论文委员会里有几位教授？"
+      sq: "Sa profesora i ke në këshillin tënd për temë të diplomës?"
+      es: "¿Cuantos profesores tienes en tu to comité de tesis?"
+      fr: "Combien de professeurs sont dans ton comité de thèse?"
 0068:
-      en: You missed our appointment last week.
-      zh: 上周你错过了我们的预约。
-      sq: Nuk ke ardhur në takimin tonë javën e kaluar.
-      es: Faltaste a nuestra cita la semana pasada.
-      fr: Tu as raté notre rendez-vous la semaine dernière.
-
+      en: "You missed our appointment last week."
+      zh: "上周你错过了我们的预约。"
+      sq: "Nuk ke ardhur në takimin tonë javën e kaluar."
+      es: "Faltaste a nuestra cita la semana pasada."
+      fr: "Tu as raté notre rendez-vous la semaine dernière."
 0069:
-      en: I'm writing a paper for my independent study.
-      zh: 我正在为我的独立研究写一篇论文。
-      sq: Po shkruaj një ese për një studim të pavarur.
-      es: Estoy escribiendo un ensayo para mi estudio independiente.
-      fr: J’écris un devoir pour mon projet indépendant.
-
+      en: "I'm writing a paper for my independent study."
+      zh: "我正在为我的独立研究写一篇论文。"
+      sq: "Po shkruaj një ese për një studim të pavarur."
+      es: "Estoy escribiendo un ensayo para mi estudio independiente."
+      fr: "J’écris un devoir pour mon projet indépendant."
 0070:
-      en: What is the reading assignment for next class?
-      zh: 下节课的指定阅读是什么？
-      sq: Çka duhet të lexojmë për javën e ardhshme?
-      es: ¿Que tenemos que leer para la próxima clase?
-      fr: Quel est le devoir à lire pour le prochain cours?
-
+      en: "What is the reading assignment for next class?"
+      zh: "下节课的指定阅读是什么？"
+      sq: "Çka duhet të lexojmë për javën e ardhshme?"
+      es: "¿Que tenemos que leer para la próxima clase?"
+      fr: "Quel est le devoir à lire pour le prochain cours?"
 0071:
-      en: Katie doesn't talk to her parents too often.
-      zh: 凯蒂(Katie)不怎么和她的父母聊天。
-      sq: Kejti nuk i thërret prindërit e saj shpesh.
-      es: Katie no habla con frecuencia con sus padres.
-      fr: Katie ne parle pas trop souvent a ses parents.
-
+      en: "Katie doesn't talk to her parents too often."
+      zh: "凯蒂(Katie)不怎么和她的父母聊天。"
+      sq: "Kejti nuk i thërret prindërit e saj shpesh."
+      es: "Katie no habla con frecuencia con sus padres."
+      fr: "Katie ne parle pas trop souvent a ses parents."
 0072:
-      en: Nicole hasn't come to class very often since we got back from break.
-      zh: 尼古拉 （Nicole)从我们放假回来后就不常来上课。
-      sq: Nikola nuk ka ardhur në ligjerata që prej se jemi kthyer nga pushimi.
-      es: Nicole no asistido a sus clases mucho desde que regresamos de vacaciones
-      fr: Nicole n’est pas venue souvent en cours depuis qu’on est revenu de vacances.
-
+      en: "Nicole hasn't come to class very often since we got back from break."
+      zh: "尼古拉 （Nicole)从我们放假回来后就不常来上课。"
+      sq: "Nikola nuk ka ardhur në ligjerata që prej se jemi kthyer nga pushimi."
+      es: "Nicole no asistido a sus clases mucho desde que regresamos de vacaciones"
+      fr: "Nicole n’est pas venue souvent en cours depuis qu’on est revenu de vacances."
 0073:
-      en: My final paper didn't turn out as well as I had hoped, but the professor said I could revise it.
-      zh: 我的期末论文最后展现出来没有我希望的好，不过教授说我可以修改它。
-      sq: Eseja përfundimtare nuk më doli aq mirë sa e prisja, por profesori më tha se mund ta rregulloj.
-      es: No me fue tan bien en mi ensayo, pero el profesor me dijo que lo puedo revisar.
-      fr: Mon devoir final ne s’est pas avéré aussi bien que je l’avais espéré, mais le professeur a dit que je pouvais le corriger (or: réviser).
-
+      en: "My final paper didn't turn out as well as I had hoped, but the professor said I could revise it."
+      zh: "我的期末论文最后展现出来没有我希望的好，不过教授说我可以修改它。"
+      sq: "Eseja përfundimtare nuk më doli aq mirë sa e prisja, por profesori më tha se mund ta rregulloj."
+      es: "No me fue tan bien en mi ensayo, pero el profesor me dijo que lo puedo revisar."
+      fr: "Mon devoir final ne s’est pas avéré aussi bien que je l’avais espéré, mais le professeur a dit que je pouvais le corriger (or: réviser)."
 0074:
-      en: The new math professor's office is in the science building.
-      zh: 新数学教授的办公室在科学楼。
-      sq: Zyra e profesorit të ri të matematikës është të ndërtesa e shkencave.
-      es: La oficina del nuevo profesor de matemáticas esta en el edificio de ciencias.
-      fr: Le nouveau bureau du professeur de maths est dans le bâtiment des sciences.
-
+      en: "The new math professor's office is in the science building."
+      zh: "新数学教授的办公室在科学楼。"
+      sq: "Zyra e profesorit të ri të matematikës është të ndërtesa e shkencave."
+      es: "La oficina del nuevo profesor de matemáticas esta en el edificio de ciencias."
+      fr: "Le nouveau bureau du professeur de maths est dans le bâtiment des sciences."
 0075:
-      en: When is your first class on Thursdays?
-      zh: 你每周四第一节课是几点？
-      sq: Kur e ke ligjëratën e parë të enjtën?
-      es: ¿Cuando es tu primera clases los jueves?
-      fr: Quand est ton premier cours les jeudis?
-
+      en: "When is your first class on Thursdays?"
+      zh: "你每周四第一节课是几点？"
+      sq: "Kur e ke ligjëratën e parë të enjtën?"
+      es: "¿Cuando es tu primera clases los jueves?"
+      fr: "Quand est ton premier cours les jeudis?"
 0076:
-      en: Did you have dinner in the dining hall on Monday?
-      zh: 你周一在食堂吃晚餐了吗？
-      sq: A ke ngrënë darkë në mensë të hënën?
-      es: ¿Cenaste en la cafetería el lunes?
-      fr: As-tu diné au réfectoire (or: a la cantine/cafétéria) lundi?
-
+      en: "Did you have dinner in the dining hall on Monday?"
+      zh: "你周一在食堂吃晚餐了吗？"
+      sq: "A ke ngrënë darkë në mensë të hënën?"
+      es: "¿Cenaste en la cafetería el lunes?"
+      fr: "As-tu diné au réfectoire (or: a la cantine/cafétéria) lundi?"
 0077:
-      en: I saw two of my professors eating lunch together.
-      zh: 我看到我的两位教授一起吃午餐。
-      sq: I pashë dy profesorët e mi duke ngrënë drekë bashkë.
-      es: Ví a dos de mis profesores comiendo lonche juntos.
-      fr: J’ai vu deux de mes professeurs déjeuner ensemble.
-
+      en: "I saw two of my professors eating lunch together."
+      zh: "我看到我的两位教授一起吃午餐。"
+      sq: "I pashë dy profesorët e mi duke ngrënë drekë bashkë."
+      es: "Ví a dos de mis profesores comiendo lonche juntos."
+      fr: "J’ai vu deux de mes professeurs déjeuner ensemble."
 0078:
-      en: My theater professor isn't on campus on Wednesdays.
-      zh: 我的戏剧教授周三不在学校。
-      sq: Profesori/profesoresha im/ime e teatrit nuk është në kampus të mërkurave.
-      es: Mi profesor de teatro no esta en campus los miércoles.
-      fr: Mon professeur de théâtre n’est pas sur le campus les mercredis.
-
+      en: "My theater professor isn't on campus on Wednesdays."
+      zh: "我的戏剧教授周三不在学校。"
+      sq: "Profesori/profesoresha im/ime e teatrit nuk është në kampus të mërkurave."
+      es: "Mi profesor de teatro no esta en campus los miércoles."
+      fr: "Mon professeur de théâtre n’est pas sur le campus les mercredis."
 0079:
-      en: Can you meet in the library tomorrow at 3pm?
-      zh: 我们能明天下午三点在图书馆见吗？
-      sq: A mund të takohemi në bibliotekë nesër në ora 3 pasdite?
-      es: ¿Nos podemos ver en la biblioteca mañana a las 3pm?
-      fr: Peut-on se donner rendez-vous à la bibliothèque demain à 15 heures?
-
+      en: "Can you meet in the library tomorrow at 3pm?"
+      zh: "我们能明天下午三点在图书馆见吗？"
+      sq: "A mund të takohemi në bibliotekë nesër në ora 3 pasdite?"
+      es: "¿Nos podemos ver en la biblioteca mañana a las 3pm?"
+      fr: "Peut-on se donner rendez-vous à la bibliothèque demain à 15 heures?"
 0080:
-      en: I have six thesis students this year.
-      zh: 我今年有六个要写毕业论文的学生。
-      sq: Kam gjashtë studentë me temë diplome këtë vitë.
-      es: Tengo seis estudiantes de tesis este año.
-      fr: J’ai six étudiants en thèse cette année.
-
+      en: "I have six thesis students this year."
+      zh: "我今年有六个要写毕业论文的学生。"
+      sq: "Kam gjashtë studentë me temë diplome këtë vitë."
+      es: "Tengo seis estudiantes de tesis este año."
+      fr: "J’ai six étudiants en thèse cette année."
 0081:
-      en: There are no 300-level economics classes this semester.
-      zh: 这一学期没有300级的经济课。
-      sq: Nuk ka lëndë ekonomike të nivelit 300 këtë semestër.
-      es: No hay clases de nivel 300 en economía este semestre.
-      fr: Il n’y a pas de cours d’économie de niveau 300 ce semestre.
-
+      en: "There are no 300-level economics classes this semester."
+      zh: "这一学期没有300级的经济课。"
+      sq: "Nuk ka lëndë ekonomike të nivelit 300 këtë semestër."
+      es: "No hay clases de nivel 300 en economía este semestre."
+      fr: "Il n’y a pas de cours d’économie de niveau 300 ce semestre."
 0082:
-      en: Who is on your thesis committee?
-      zh: 你的毕业论文委员会都有谁？
-      sq: Kush është në këshilin tënd për temë të diplomës?
-      es: ¿Quien esta en tu comité de tesis?
-      fr: Qui est dans ton comité de thèse?
-
+      en: "Who is on your thesis committee?"
+      zh: "你的毕业论文委员会都有谁？"
+      sq: "Kush është në këshilin tënd për temë të diplomës?"
+      es: "¿Quien esta en tu comité de tesis?"
+      fr: "Qui est dans ton comité de thèse?"
 0083:
-      en: How often does Hideki meet with his advisor?
-      zh: 秀喜Hideki和他的导师多久见一次面？
-      sq: Sa shpesh takohet Hideki me mentorin e tij?
-      es: ¿Que tan frecuente Hideki se reúne con su advisor (consejero académico)?
-      fr: Combien de fois Hideki voit-il son conseiller académique?
-
+      en: "How often does Hideki meet with his advisor?"
+      zh: "秀喜Hideki和他的导师多久见一次面？"
+      sq: "Sa shpesh takohet Hideki me mentorin e tij?"
+      es: "¿Que tan frecuente Hideki se reúne con su advisor (consejero académico)?"
+      fr: "Combien de fois Hideki voit-il son conseiller académique?"
 0084:
-      en: Yuri's advisor is the new math professor, but he's not taking any math classes.
-      zh: 尤里Yuri's的导师是新的数学教授，但是他还没有上过任何数学课。
-      sq: Mentori i Jurit është profesori i ri i matematikës, por ai nuk po merr ndonjë lëndë të matematikës.
-      es: El advisor de Yuri es el nuevo profesor de matemáticas, pero el no esta tomando ninguna clase de matemáticas.
-      fr: Le conseiller académique de Yuri est le nouveau professeur de maths, mais il n’est pas en train de suivre de cours de maths.
-
+      en: "Yuri's advisor is the new math professor, but he's not taking any math classes."
+      zh: "尤里Yuri's的导师是新的数学教授，但是他还没有上过任何数学课。"
+      sq: "Mentori i Jurit është profesori i ri i matematikës, por ai nuk po merr ndonjë lëndë të matematikës."
+      es: "El advisor de Yuri es el nuevo profesor de matemáticas, pero el no esta tomando ninguna clase de matemáticas."
+      fr: "Le conseiller académique de Yuri est le nouveau professeur de maths, mais il n’est pas en train de suivre de cours de maths."
 0085:
-      en: They were talking about courses for next semester.
-      zh: 他们当时在聊下一学期的课。
-      sq: Ata/ato po flisnin për lëndët e semestrit të ardhshëm.
-      es: Estaban hablando sobre clases para el próximo semestre
-      fr: Ils étaient en train de parler des cours pour le prochain semestre.
-
+      en: "They were talking about courses for next semester."
+      zh: "他们当时在聊下一学期的课。"
+      sq: "Ata/ato po flisnin për lëndët e semestrit të ardhshëm."
+      es: "Estaban hablando sobre clases para el próximo semestre"
+      fr: "Ils étaient en train de parler des cours pour le prochain semestre."
 0086:
-      en: Are you getting enough sleep? You look pretty tired.
-      zh: 你的睡眠充足吗？你看上去很累。
-      sq: A po bënë gjumë sa duhet? Dukesh shumë i lodhur.
-      es: ¿Estas durmiendo suficiente? Te ves muy cansado.
-      fr: Dors-tu assez en ce moment? Tu as l’air assez fatigué(e).
-
+      en: "Are you getting enough sleep? You look pretty tired."
+      zh: "你的睡眠充足吗？你看上去很累。"
+      sq: "A po bënë gjumë sa duhet? Dukesh shumë i lodhur."
+      es: "¿Estas durmiendo suficiente? Te ves muy cansado."
+      fr: "Dors-tu assez en ce moment? Tu as l’air assez fatigué(e)."
 0087:
-      en: I need a ride to the airport before break, but I have a train ticket for the return trip.
-      zh: 放假前我需要有人载我去机场，但是回程我有一张火车票。
-      sq: Dikush duhet të më dërgoj në airoport me makinë para pushimit, por kam një biletë treni për tu kthyer.
-      es: Necesito que me lleven al aeropuerto antes de las vacaciones, pero tengo un boleto de tren para el regreso.
-      fr: J’ai besoin d’être conduit à l’aéroport avant les vacances, mais j’ai un billet de train pour le retour.
-
+      en: "I need a ride to the airport before break, but I have a train ticket for the return trip."
+      zh: "放假前我需要有人载我去机场，但是回程我有一张火车票。"
+      sq: "Dikush duhet të më dërgoj në airoport me makinë para pushimit, por kam një biletë treni për tu kthyer."
+      es: "Necesito que me lleven al aeropuerto antes de las vacaciones, pero tengo un boleto de tren para el regreso."
+      fr: "J’ai besoin d’être conduit à l’aéroport avant les vacances, mais j’ai un billet de train pour le retour."
 0088:
-      en: Lauren can't graduate this semester. He doesn't have enough math credits.
-      zh: 劳伦(Lauren)这一学期不能毕业。他的数学学分不够。
-      sq: Laureni nuk arriti të diplomoj këtë semester. Ai nuk ka mjaftueshëm kredite në matematikë.
-      es: Lauren no puedo graduarse este semestre. No tiene suficiente créditos en matemáticas.
-      fr: Lauren ne peut pas valider ce semestre. Il n’a pas assez de crédits en maths.
-
+      en: "Lauren can't graduate this semester. He doesn't have enough math credits."
+      zh: "劳伦(Lauren)这一学期不能毕业。他的数学学分不够。"
+      sq: "Laureni nuk arriti të diplomoj këtë semester. Ai nuk ka mjaftueshëm kredite në matematikë."
+      es: "Lauren no puedo graduarse este semestre. No tiene suficiente créditos en matemáticas."
+      fr: "Lauren ne peut pas valider ce semestre. Il n’a pas assez de crédits en maths."
 0089:
-      en: When you were a freshman, did you live in a double or a single?
-      zh: 当你是新生的时候，你住单人间还是双人间？
-      sq: Kur ishe në vit të parë a kishe një dhomë dyshe apo njëshe?
-      es: En tu primer año ¿compartiste cuarto?
-      fr: Quand tu étais en première année, vivais-tu dans une chambre double ou simple?
-
+      en: "When you were a freshman, did you live in a double or a single?"
+      zh: "当你是新生的时候，你住单人间还是双人间？"
+      sq: "Kur ishe në vit të parë a kishe një dhomë dyshe apo njëshe?"
+      es: "En tu primer año ¿compartiste cuarto?"
+      fr: "Quand tu étais en première année, vivais-tu dans une chambre double ou simple?"
 0090:
-      en: I'm not taking any foreign language classes next semester.
-      zh: 我下一学期不上外语课。
-      sq: Nuk po marrë ndonjë gjuhë të huaj semestrin e ardhshëm.
-      es: No voy a tomar clases de lenguaje el próximo semestre.
-      fr: Je ne vais pas prendre de cours de langues étrangères le semestre prochain.
-
+      en: "I'm not taking any foreign language classes next semester."
+      zh: "我下一学期不上外语课。"
+      sq: "Nuk po marrë ndonjë gjuhë të huaj semestrin e ardhshëm."
+      es: "No voy a tomar clases de lenguaje el próximo semestre."
+      fr: "Je ne vais pas prendre de cours de langues étrangères le semestre prochain."
 0091:
-      en: He's doing an independent study in Japanese.
-      zh: 他在做一个日语方面的独立研究。
-      sq: Ai po bënë një studim të pavarur në japonisht.
-      es: Esta haciendo un estudio independiente en japonés.
-      fr: Il est en train de travailler sur un projet indépendant en japonais.
-
+      en: "He's doing an independent study in Japanese."
+      zh: "他在做一个日语方面的独立研究。"
+      sq: "Ai po bënë një studim të pavarur në japonisht."
+      es: "Esta haciendo un estudio independiente en japonés."
+      fr: "Il est en train de travailler sur un projet indépendant en japonais."
 0092:
-      en: Isn't your girlfriend doing an independent study in Latin?
-      zh: 你的朋友不是在做一个拉丁语方面的独立研究吗？
-      sq: A nuk po e bënë e dashura jote një studim të pavarur në latinisht?
-      es: ¿Apoco tu novia no esta haciendo un estudio independiente en latín?
-      fr: Ta petite copine n’est-elle pas en train de travailler sur un projet indépendant en latin?
-
+      en: "Isn't your girlfriend doing an independent study in Latin?"
+      zh: "你的朋友不是在做一个拉丁语方面的独立研究吗？"
+      sq: "A nuk po e bënë e dashura jote një studim të pavarur në latinisht?"
+      es: "¿Apoco tu novia no esta haciendo un estudio independiente en latín?"
+      fr: "Ta petite copine n’est-elle pas en train de travailler sur un projet indépendant en latin?"
 0093:
-      en: Mel isn't studying Russian any more. She did very badly on the final last semester.
-      zh: 梅尔(Mel)不再学习俄语了。她上一学期期末考的非常糟糕。
-      sq: Meli nuk po mëson rusisht më. Ajo nuk bëri mirë në provimin e fundit semestrin e kaluar.
-      es: Mel ya no estudia ruso. Le fue muy mal en el examen final el semestre pasado.
-      fr: Mel n’est plus en train d’étudier le Russe. Elle a vraiment échoué au dernier examen le semestre dernier.
-
+      en: "Mel isn't studying Russian any more. She did very badly on the final last semester."
+      zh: "梅尔(Mel)不再学习俄语了。她上一学期期末考的非常糟糕。"
+      sq: "Meli nuk po mëson rusisht më. Ajo nuk bëri mirë në provimin e fundit semestrin e kaluar."
+      es: "Mel ya no estudia ruso. Le fue muy mal en el examen final el semestre pasado."
+      fr: "Mel n’est plus en train d’étudier le Russe. Elle a vraiment échoué au dernier examen le semestre dernier."
 0094:
-      en: Have you done your foreign language requirement?
-      zh: 你完成你的外语要求了吗？
-      sq: A e ke përfunduar kriterin e gjuhës së huaj?
-      es: Has completado tu requisito de lenguaje
-      fr: As-tu complété ton cours de langue étrangère obligatoire?
-
+      en: "Have you done your foreign language requirement?"
+      zh: "你完成你的外语要求了吗？"
+      sq: "A e ke përfunduar kriterin e gjuhës së huaj?"
+      es: "Has completado tu requisito de lenguaje"
+      fr: "As-tu complété ton cours de langue étrangère obligatoire?"
 0095:
-      en: There are very few international students there.
-      zh: 这里只有非常少的国际学生。
-      sq: Ka shumë pak studentë ndërkombëtar atje.
-      es: Hay muy pocos estudiantes extranjeros aquí.
-      fr: Il y a très peu d’élèves internationaux là-bas.
-
+      en: "There are very few international students there."
+      zh: "这里只有非常少的国际学生。"
+      sq: "Ka shumë pak studentë ndërkombëtar atje."
+      es: "Hay muy pocos estudiantes extranjeros aquí."
+      fr: "Il y a très peu d’élèves internationaux là-bas."
 0096:
-      en: Your work has been very strong this semester. Have you thought about law school?
-      zh: 你这一学期的功课一直非常出色。你考虑过法学院吗？
-      sq: Puna jote ka qenë shumë e mirë këtë semestër. A ke menduar për juridik?
-      es: Tu trabajo a sido estupendo este semestre. ¿Has pensado sobre hiendo a una escuela de leyes?
-      fr: Ton travail a été très bon ce semestre. As-tu envisagé une école de droit?
-
+      en: "Your work has been very strong this semester. Have you thought about law school?"
+      zh: "你这一学期的功课一直非常出色。你考虑过法学院吗？"
+      sq: "Puna jote ka qenë shumë e mirë këtë semestër. A ke menduar për juridik?"
+      es: "Tu trabajo a sido estupendo este semestre. ¿Has pensado sobre hiendo a una escuela de leyes?"
+      fr: "Ton travail a été très bon ce semestre. As-tu envisagé une école de droit?"
 0097:
-      en: 尤里Yuri wants to go to graduate school abroad.
-      zh: Yuri想去海外的研究生院。
-      sq: Juri do ta përfundoj masterin jashtë vendit.
-      es: Yuri quiere ir a una escuela de graduados en el extranjero.
-      fr: Yuri veut aller faire son master à l’étranger.
-
+      en: "尤里Yuri wants to go to graduate school abroad."
+      zh: "Yuri想去海外的研究生院。"
+      sq: "Juri do ta përfundoj masterin jashtë vendit."
+      es: "Yuri quiere ir a una escuela de graduados en el extranjero."
+      fr: "Yuri veut aller faire son master à l’étranger."
 0098:
-      en: My Spanish class meets in the science building.
-      zh: 我的西班牙语课在科学楼里上。
-      sq: Lënda ime e spanjishtës mbahet në ndërtesën e shkencave.
-      es: Mi clase de español conviene en el edificio de ciencias.
-      fr: Ma classe d’espagnol a lieu dans le bâtiment des sciences.
-
+      en: "My Spanish class meets in the science building."
+      zh: "我的西班牙语课在科学楼里上。"
+      sq: "Lënda ime e spanjishtës mbahet në ndërtesën e shkencave."
+      es: "Mi clase de español conviene en el edificio de ciencias."
+      fr: "Ma classe d’espagnol a lieu dans le bâtiment des sciences."
 0099:
-      en: When is the thesis proposal due?
-      zh: 毕业论文提纲什么时候交？
-      sq: Kur duhet të dorëzojmë propozimin për temë të diplomës? 
-      es: ¿Cuando tengo que entregar la propuesta para mi tesis?
-      fr: Quand est-ce que la proposition de thèse est à rendre?
-
+      en: "When is the thesis proposal due?"
+      zh: "毕业论文提纲什么时候交？"
+      sq: "Kur duhet të dorëzojmë propozimin për temë të diplomës?"
+      es: "¿Cuando tengo que entregar la propuesta para mi tesis?"
+      fr: "Quand est-ce que la proposition de thèse est à rendre?"
 0100:
-      en: Can you remind me when the thesis proposal is due?
-      zh: 你能在要交毕业论文提纲的时候提醒我吗？
-      sq: A mund të ma kujtosh kur duhet ta dorëzojmë propozimin për temë të diplomës?
-      es: ¿Me puedes recordar cuando tienes que entregar tu propuesta de tesis
-      fr: Peux-tu me rappeler la date à laquelle la proposition de thèse est à rendre?
-
+      en: "Can you remind me when the thesis proposal is due?"
+      zh: "你能在要交毕业论文提纲的时候提醒我吗？"
+      sq: "A mund të ma kujtosh kur duhet ta dorëzojmë propozimin për temë të diplomës?"
+      es: "¿Me puedes recordar cuando tienes que entregar tu propuesta de tesis"
+      fr: "Peux-tu me rappeler la date à laquelle la proposition de thèse est à rendre?"
